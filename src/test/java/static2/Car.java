@@ -9,7 +9,7 @@ public class Car {
     @Test
     public void run1(){
         Car c = null;
-//        System.out.println(c.model);
+        System.out.println(c.model);
     }
 
 
