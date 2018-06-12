@@ -8,7 +8,7 @@ public class Car {
 
     @Test
     public void run1(){
-        Car c = null;
+        Car c = new Car();
 //        System.out.println(c.model);
     }
 
